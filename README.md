@@ -31,7 +31,6 @@ I'm an indie hacker cooking up websites.
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaronWenger&layout=compact&theme=radical">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaronWenger&layout=compact&theme=radical">
       <img src="https://github-readme-stats.vercel.app/api?username=JaronWenger&show_icons=true&hide=issues&rank_icon=none&theme=radical">
     </td>
   </tr>
