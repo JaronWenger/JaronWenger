@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-I'm an indie hacker cooking up websites.
+Code till you can't code no more.
 
 #
 
