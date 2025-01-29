@@ -41,6 +41,9 @@ I'm an indie hacker cooking up websites.
 ### My projects
 
 - [🌐 My Portfolio](https://jaronwenger.github.io/PORTFOLIO/) - Check out all my projects!
-- [🌐 Cinestoke](https://www.cinestoke.com/) - Cinematic production company website
+- [🤖 Takapic](https://www.takapic.com/) - Selfie to AI video creator
+- [📸 Cinestoke](https://www.cinestoke.com/) - Cinematic production company website
+- [📈 Stock Lookup](https://jaronwenger.github.io/Stock-API/) - Lookup stocks by ticker or name
+
 
 
