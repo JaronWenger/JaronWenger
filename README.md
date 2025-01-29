@@ -1,6 +1,7 @@
 ## 🦦  Jaron Wenger
 
 **`Software Developer`**
+I'm an indie hacker cooking up websites
 
 #
 
