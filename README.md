@@ -40,5 +40,6 @@ I'm an indie hacker cooking up websites.
 
 ### My projects
 
-- [🌐 My Portfolio]([https://yourportfolio.com](https://jaronwenger.github.io/PORTFOLIO/)) - Check out all my projects!
+- [🌐 My Portfolio](https://jaronwenger.github.io/PORTFOLIO/) - Check out all my projects!
+
 
