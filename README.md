@@ -2,7 +2,6 @@
 
 **`Software Developer`**
 
-I work on web apps.
 
 #
 
