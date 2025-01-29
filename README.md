@@ -25,6 +25,13 @@ I'm an indie hacker cooking up websites.
 
 ### My stats
 
-![Jaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaronWenger&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaronWenger&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=JaronWenger&show_icons=true&hide=issues&theme=radical">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaronWenger&layout=compact&theme=radical">
+    </td>
+  </tr>
+</table>
