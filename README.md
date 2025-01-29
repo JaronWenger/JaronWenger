@@ -44,6 +44,10 @@ I'm an indie hacker cooking up websites.
 ![Jaron's Forks](https://img.shields.io/github/forks/JaronWenger?style=social)  
 ![Jaron's Issues](https://img.shields.io/github/issues/JaronWenger?style=social)
 
+## 📊 GitHub Stats
+
+![Jaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaronWenger&show_icons=true&hide=issues&rank_icon=none&theme=tokyonight)
+
 ## 🛠️ Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaronWenger&layout=compact&theme=tokyonight)
