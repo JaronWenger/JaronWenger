@@ -1,6 +1,10 @@
-## 🦦 Jaron Wenger
+## 🦦  Jaron Wenger
 
-**`Yo`**
+**`Software Developer`**
+
+I'm an indie hacker & build websites.
+
+<br/>
 <!--
 **`JaronWenger/JaronWenger`** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
