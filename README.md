@@ -35,3 +35,15 @@ I'm an indie hacker cooking up websites.
     </td>
   </tr>
 </table>
+
+
+
+## 📊 GitHub Stats
+
+![Jaron's GitHub Stats](https://img.shields.io/github/stars/JaronWenger?style=social)  
+![Jaron's Forks](https://img.shields.io/github/forks/JaronWenger?style=social)  
+![Jaron's Issues](https://img.shields.io/github/issues/JaronWenger?style=social)
+
+## 🛠️ Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaronWenger&layout=compact&theme=tokyonight)
