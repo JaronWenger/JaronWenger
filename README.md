@@ -36,3 +36,9 @@ I'm an indie hacker cooking up websites.
   </tr>
 </table>
 
+#
+
+### My projects
+
+- [🌐 My Portfolio]([https://yourportfolio.com](https://jaronwenger.github.io/PORTFOLIO/)) - Check out all my projects!
+
