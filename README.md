@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-I'm an indie hacker cooking up websites
+I'm an indie hacker cooking up websites.
 
 #
 
@@ -17,3 +17,10 @@ I'm an indie hacker cooking up websites
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+
+## 📊 GitHub Stats  
+
+![Jaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaronWenger&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaronWenger&layout=compact&theme=radical)
