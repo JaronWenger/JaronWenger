@@ -12,7 +12,6 @@ Code till you can't code no more.
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50px" style="margin-right:20px;" />
   <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50px" style="margin-right:20px;" />
   <img alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50px" style="margin-right:20px;" />
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50px" style="margin-right:20px;" />
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" style="margin-right:20px;" />
   <img alt="DigitalOcean" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg" width="50px" style="margin-right:20px;" />
   <img alt="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="50px" style="margin-right:20px;" />
