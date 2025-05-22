@@ -28,6 +28,7 @@ Code till you can't code no more.
 ### My projects
 
 - [🌐 My Portfolio](https://jaronwenger.github.io/PORTFOLIO/) - Check out all my projects!
+- [🔗 Coda Link](https://jaronwenger.github.io/CODAAPI/) - Connect to Coda tables with an API
 - [🤖 Takapic](https://www.takapic.com/) - Selfie to AI video creator
 - [📸 Cinestoke](https://www.cinestoke.com/) - Cinematic production company website
 - [📈 Stock Lookup](https://jaronwenger.github.io/Stock-API/) - Lookup stocks by ticker or name
